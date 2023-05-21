@@ -1,0 +1,27 @@
+git remote add origin https://github.com/Huseen20/Manu.git
+
+git branch -M main
+
+git push -u origin maini
+
+git remote add origin https://github.com/Huseen20/Manu.git
+
+git branch -M main
+
+git push -u origin mainmain
+
+https://github.com/Huseen20/Manu.git
+
+echo "# Manu" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/Huseen20/Manu.git
+
+git push -u origin main
